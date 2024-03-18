@@ -186,11 +186,13 @@ section .title::after{
 }
 .home .home-content .text-1{
     font-size: 27px;
+    letter-spacing: 10px;
 }
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
+    letter-spacing: 10px;
 }
 .home .home-content .text-1 span{
     color: crimson;
@@ -207,6 +209,7 @@ section .title::after{
     color: white;
     font-family: 'Times New Roman', Times, serif;
     text-shadow: 2px 2px 4px rgba(181, 178, 178, 0.5);
+    letter-spacing: 10px;
 }
 .home .home-content .text-3 span{
     color: crimson;
@@ -217,7 +220,8 @@ section .title::after{
     font-weight: 500;
 }
 .home .home-content .text-4{
-    font-size: 40px;
+    font-size: 30px;
+    letter-spacing: 10px;
     margin: 5px 0;
     color: white;
     font-family: 'Times New Roman', Times, serif;
