@@ -193,6 +193,17 @@ section .title::after{
     margin-left: -3px;
 }
 .home .home-content .text-3{
+    font-size: 35px;
+    margin: 5px 0;
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 4px rgba(181, 178, 178, 0.5);
+}
+.home .home-content .text-4 span{
+    color: crimson;
+    font-weight: 500;
+}
+.home .home-content .text-4{
     font-size: 40px;
     margin: 5px 0;
     color: crimson;
