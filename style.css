@@ -199,6 +199,10 @@ section .title::after{
     font-family: 'Times New Roman', Times, serif;
     text-shadow: 2px 2px 4px rgba(181, 178, 178, 0.5);
 }
+.home .home-content .text-3 span{
+    color: crimson;
+    font-weight: 500;
+}
 .home .home-content .text-4 span{
     color: crimson;
     font-weight: 500;
@@ -210,10 +214,7 @@ section .title::after{
     font-family: 'Times New Roman', Times, serif;
     text-shadow: 2px 2px 4px rgba(181, 178, 178, 0.5);
 }
-.home .home-content .text-3 span{
-    color: crimson;
-    font-weight: 500;
-}
+
 .home .home-content a{
     display: inline-block;
     background: crimson;
